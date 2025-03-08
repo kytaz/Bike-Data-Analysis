@@ -1,0 +1,14 @@
+streamlit
+pandas 
+numpy 
+matplotlib.pyplot 
+seaborn 
+scipy
+statsmodels.api  
+sklearn.model_selection 
+train_test_split
+sklearn.linear_model 
+LinearRegression
+sklearn.metrics 
+mean_squared_error
+plotly.express 
