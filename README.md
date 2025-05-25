@@ -13,7 +13,7 @@ Pastikan  hal-hal berikut sebelum memulai:
 
 ### 1. Clone Repository
 Clone repository ini ke komputer Anda (jika menggunakan Git):
-```sh
+```
 git clone <URL_REPOSITORY>
 cd D:\MATERI KULIAH\INFORMATIKA\SEMESTER 6\DBS\Submission\dashboard\dashboardku.py
 ```
@@ -23,7 +23,7 @@ cd D:\MATERI KULIAH\INFORMATIKA\SEMESTER 6\DBS\Submission\dashboard\dashboardku.
     pip install -r requirements.txt
 ```
 
-### Run the Streamlit app:
+### 3.  Run the Streamlit app:
 ```
 python -m streamlit run dashboardku.py
 ```
